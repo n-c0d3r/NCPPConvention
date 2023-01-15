@@ -14,9 +14,6 @@
         + **CS_** : `Completed Struct` (non-inheritance)
         + **E_** : `Enum`
         + **U_** : `Union`
-    + Macro, Function, Method:
-        + **M_** : `Macro`
-        + **F_** : `Function` or `Method`
     + Variable, Constant:
         + **m_** : `Member Variable` (prefer to use for private or protected member only)
         + **s_** : `Static Variable`
